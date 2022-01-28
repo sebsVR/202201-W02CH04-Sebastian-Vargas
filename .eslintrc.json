@@ -11,6 +11,6 @@
     },
     "rules": {
         "prefer-const": "off",
-        "no-console":"error"
+        "no-console": "off"
     }
 }
