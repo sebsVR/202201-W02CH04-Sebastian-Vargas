@@ -1,6 +1,0 @@
-projectKey=Week02-Challenge04
-serverUrl=http://localhost:9000
-serverVersion=9.2.4.50792
-dashboardUrl=http://localhost:9000/dashboard?id=Week02-Challenge04
-ceTaskId=AX6cxvLt6mqZ4o7ytIcZ
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AX6cxvLt6mqZ4o7ytIcZ
